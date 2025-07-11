@@ -1,5 +1,5 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router';
+import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
@@ -49,7 +49,7 @@ body {
 }
 
 .nav-link {
-  color: white;
+  color: green;
   text-decoration: none;
   padding: 0.5rem 1rem;
   border-radius: 5px;
