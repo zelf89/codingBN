@@ -49,7 +49,7 @@ body {
 }
 
 .nav-link {
-  color: green;
+  color: blue;
   text-decoration: none;
   padding: 0.5rem 1rem;
   border-radius: 5px;
